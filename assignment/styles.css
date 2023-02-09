@@ -1,8 +1,15 @@
 header {
     background-color: darkorange;
+    text-align: center;
+    color: bisque;
 }
 
 .info {
     background-color:mediumseagreen;
     color:midnightblue
+}
+
+h3 {
+    background-color:tomato;
+    color:cornsilk;
 }
